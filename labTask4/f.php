@@ -5,7 +5,7 @@
 <form action="profile picture  validation.php" method="post" enctype="multipart/form-data">
 	<fieldset>
 		 <legend>  Profile Picture:</legend> 
-		<img src="parag.jpg" alt="" width="50" height="60">
+		<img src="img.png" alt="" width="50" height="60">
 <br><br>
   
   <input type="file" name="fileToUpload" id="fileToUpload"><br><br>
